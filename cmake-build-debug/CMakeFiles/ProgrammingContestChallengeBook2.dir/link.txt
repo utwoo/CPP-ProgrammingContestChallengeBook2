@@ -1,0 +1,3 @@
+"D:\Program Files\JetBrains\ToolBox\apps\CLion\ch-0\212.5457.51\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\ProgrammingContestChallengeBook2.dir/objects.a
+D:\Others\Tools\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\ar.exe cr CMakeFiles\ProgrammingContestChallengeBook2.dir/objects.a @CMakeFiles\ProgrammingContestChallengeBook2.dir\objects1.rsp
+D:\Others\Tools\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\ProgrammingContestChallengeBook2.dir/objects.a -Wl,--no-whole-archive -o ProgrammingContestChallengeBook2.exe -Wl,--out-implib,libProgrammingContestChallengeBook2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ProgrammingContestChallengeBook2.dir\linklibs.rsp
